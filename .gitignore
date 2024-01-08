@@ -1,0 +1,4 @@
+test/
+androidTest/
+main/res/*
+main/AndroidManifest.xml
